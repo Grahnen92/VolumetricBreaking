@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{30334709-4579-30D3-9B40-90949F3F6809}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "VolumetricBreaking",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
